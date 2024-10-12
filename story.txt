@@ -1,3 +1,5 @@
+""This is a sample story""
+
 Once upon a time in a <adjective> village, there lived a <adjective> <noun> named <name>. Every day, <name> would <verb> in the <place>, dreaming of adventure.
 
 One sunny morning, <name> discovered a <adjective> <noun> hidden beneath a <noun>. Curiosity piqued, <name> decided to <verb> it. To <his/her/their> surprise, the <noun> began to <verb>!
